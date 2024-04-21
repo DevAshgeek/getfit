@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react'
-import { Box, Button, Stack, TextField, Typography } from '@mui/material'
+import React from 'react'
+import { Box, Stack, Typography } from '@mui/material'
 import aboutfitnessImg from '../assets/images/aboutfitness.png'
 import weightTrainingIcon from '../assets/icons/equipment.png'
 import generalFitnessIcon from '../assets/icons/body-part.png'

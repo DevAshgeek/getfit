@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { Stack, Typography, Divider } from '@mui/material'
 import logo from '../assets/images/Logo.png'
 import MenuIcon from '@mui/icons-material/Menu';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 // bgcolor="#FFF5EE"
 const Navbar = () => {
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
